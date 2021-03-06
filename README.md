@@ -1,5 +1,5 @@
-# Video-maker-with-Reddit
-A vidéo maker that use the youtube and reddit api 
+# How to use this program
+
 
 To use this you'll need:
 - a intro named "Intro.mpeg"
